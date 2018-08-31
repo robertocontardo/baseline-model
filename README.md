@@ -1,6 +1,6 @@
 ## Baseline Models
 
-Set of usefull baseline models for different MySQL purposes
+Set of useful baseline MySQL models for different purposes
 
 ### Default Baseline Model 
 
